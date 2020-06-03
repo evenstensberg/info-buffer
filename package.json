@@ -1,0 +1,12 @@
+{
+  "name": "info-buffer",
+  "version": "1.0.0",
+  "description": "A queue-based logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["buffer", "queue", "logging"],
+  "author": "Even Stensberg",
+  "license": "MIT"
+}
