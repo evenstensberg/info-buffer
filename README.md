@@ -26,7 +26,9 @@ buffer.wait();
 buffer.log("Not logged");
 
 buffer.resume();
+
 buffer.log("this");
+
 buffer.broadcast();
 
 ```

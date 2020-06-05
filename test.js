@@ -1,4 +1,4 @@
-const InfoBuffer = require('./index');
+const InfoBuffer = require('info-buffer');
 
 const buffer = new InfoBuffer();
 
